@@ -1,3 +1,3 @@
 # sublimesettings
-## my Sublime settings :computer:
+## my Sublime-Text 3 settings :computer:
 
