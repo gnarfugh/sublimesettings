@@ -2,6 +2,8 @@
 
 ```
 {
+	"Seti_show_group_arrows": true,
+	"Seti_sidebar_font_size_12": true,
 	"caret_extra_bottom": 3,
 	"caret_extra_top": 3,
 	"caret_extra_width": 2,
@@ -18,7 +20,7 @@
 		"saturation": "perc",
 		"value": "perc"
 	},
-	"color_scheme": "Packages/User/SublimeLinter/Dracula (SL).tmTheme",
+	"color_scheme": "Packages/User/Dracula (SL).tmTheme",
 	"convert_util_path": "convert",
 	"default_keybindings": true,
 	"enabled": true,
@@ -180,7 +182,7 @@
 	],
 	"overlay_scroll_bars": "enabled",
 	"style": "default",
-	"theme": "Seti.sublime-theme"
+	"tab_size": 2,
+	"theme": "Seti.sublime-theme",
+	"translate_tabs_to_spaces": true
 }
-
-```
